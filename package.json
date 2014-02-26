@@ -1,0 +1,14 @@
+{
+    "name":                 "bluemix-wiki",
+    "dependencies":
+        {
+        "coffee-script":    "1.7.x",
+        "ports":            "1.1.x",
+        "shelljs":          "0.2.x",
+        "underscore":       "1.6.x",
+        "wiki":             "0.1.x"
+        },
+    "devDependencies":
+        {
+        }
+}
